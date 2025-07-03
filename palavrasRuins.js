@@ -1,5 +1,10 @@
 export const PALAVRAS_RUINS = new Set([
-    "que",
+    "bem" ,
+    "tudo" ,
+    "queria",
+    "que" ,
+    "pra" ,
+    "põe" ,
     "para",
     "com",
     "não",
